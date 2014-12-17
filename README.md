@@ -9,7 +9,7 @@ The ```region-maps``` folder will be populated with images of the regional maps.
 
 Initially, much of the work will be manually curation. After a little data is collected hopefully, patterns will become clear.
 
-As this develops, this will be matched against the (usa.gov contacts api)[http://www.usa.gov/About/developer-resources/federal-agency-directory/] to normalize and narrow down what is missing.
+As this develops, this will be matched against the [http://www.usa.gov/About/developer-resources/federal-agency-directory/](usa.gov contacts api) to normalize and narrow down what is missing.
 
 #### Adding regional info to the repo
 
@@ -17,8 +17,8 @@ If you would like to help, please take a look at the issues to see if there are 
 
 * Take screenshot of the map at the url
 * Rename to use agency + sub-agency. Example "dot-faa.png" ... if no sub-agency, then just top level, ie "dot.png"
-* Add them to the region-maps folder
-* Add a line item to the csv that includes the source from where you got it.
+* Add them to the [region-maps](https://github.com/unitedstates/agency-regions/tree/master/region-maps) folder
+* Add a line item to the [csv](https://github.com/unitedstates/agency-regions/blob/master/region_maps.csv) that includes the source from where you got it.
 
 (Please reach out if you have questions.)
 
